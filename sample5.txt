@@ -1,0 +1,93 @@
+//Prints Fibonacci numbers up to 55
+1 //AC = 1
+1
+16 // Y = AC
+1 //AC = 0  start for
+0
+10 //AC + X
+11 //AC + Y
+9 //print AC int
+1
+27 //push AC
+17 //AC = Y
+14 //X = AC = Y
+28 //pop into AC
+16 //Y = AC
+
+1 //AC = SPACE
+32
+9 //print AC as char
+2
+
+1 //AC = 55
+55
+13 //AC - 55
+22 //Jump Not Equal
+3
+
+29 //Sys Call
+50
+
+
+.1000
+30
+
+.1500
+2 //AC = F
+1700
+9 //print AC
+2
+
+2 //AC = I
+1701
+9 //print AC
+2
+
+2 //AC = B
+1702
+9 //print AC
+2
+
+2 //AC = SPACE
+1703
+9 //print AC
+2
+
+2 //AC = N
+1704
+9 //print AC
+2
+
+2 //AC = U
+1705
+9 //print AC
+2
+
+2 //AC = M
+1706
+9 //print AC
+2
+
+2 //AC = S
+1707
+9 //print AC
+2
+
+2 //AC = !
+1708
+9 //print AC
+2
+
+30
+
+
+.1700 //data
+70 //F
+73 //I
+66 //B
+32 //SPACE
+78 //N
+85 //U
+77 //M
+83 //S
+33 //!
